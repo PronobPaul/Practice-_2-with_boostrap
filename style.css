@@ -1,0 +1,41 @@
+.navbar-nav .nav-item .nav-link{
+    font-weight:bold;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: aqua;
+}
+.background-img{
+    position: absolute;
+    top: 0;
+    height:50vw;
+    width:100vw;
+    overflow: hidden;
+    z-index: -1;
+   
+}
+.container{
+    height: 600px;;
+    width: 100%;
+}
+.about{
+    padding-top: 10rem;
+    height: 300px;
+}
+.from{
+    text-align: center;
+    padding: 10px;
+    height: 40vw;
+    border-radius: 20px;
+    color:bisque
+}
+.input{
+    padding: 10px;
+    border-radius: 8px;
+}
+.inputTitle{
+    padding-right: 16rem;
+}
+.inputCom{
+    padding-bottom: 15rem;
+    padding-right:16rem;
+}
